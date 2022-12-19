@@ -593,7 +593,7 @@
         {
           "name": "exitSceneUrl",
           "type": "string",
-          "value": "/maps/cave.json"
+          "value": "/cave.json"
         }
       ],
       "type": "tilelayer",
