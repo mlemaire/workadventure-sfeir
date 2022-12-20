@@ -301,7 +301,7 @@
                 {
                  "name":"code",
                  "type":"string",
-                 "value":"5300"
+                 "value":"5321"
                 }, 
                 {
                  "name":"doorVariable",
@@ -1207,8 +1207,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":88,
- "nextobjectid":29,
+ "nextlayerid":89,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
